@@ -1,0 +1,1 @@
+﻿Cap2 -> Flyweight
